@@ -1,6 +1,13 @@
 
-alignment/alignment-fromgit/
+crawl/
 
-alignment/alignment-other/
+detect/*
+!detect/blazeface
 
-alignment/alignment-origin/
+alignment/
+
+pytogo/
+
+front-end/
+
+back-end/
