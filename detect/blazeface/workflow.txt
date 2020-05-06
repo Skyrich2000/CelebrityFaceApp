@@ -1,0 +1,11 @@
+BlazeFace의 구조는 MobileNet V2의 구조를 차용했습니다
+
+그럼 MobileNet V2는 뭐지?
+
+애초에 MobileNet 은 뭐지?
+
+http://melonicedlatte.com/machinelearning/2019/11/01/212800.html
+
+CNN 전반 내용 요약
+https://blog.naver.com/laonple/220643128255
+
